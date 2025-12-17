@@ -1,88 +1,94 @@
-#CasaSecure
-##
- 🎯 Overview
+# 🏠 CasaSecure
 
-CasaSecure is a Java-based application that simulates a complete smart home environment. Built with object-oriented programming principles, it demonstrates inheritance, polymorphism, interfaces, and exception handling while providing a functional smart home management system.
+<div align="center">
 
-###
- Key Highlights
+![Java](https://img.shields.io/badge/Java-11+-orange?style=for-the-badge&logo=java)
+![Console](https://img.shields.io/badge/Interface-Console-blue?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Design-Object--Oriented-red?style=for-the-badge)
 
--
- 
-Solid Architecture : Well-structured OOP design with clear separation of concerns
+**A comprehensive object-oriented smart home automation system**
 
- 
-**
-Multiple Device Types: Support for lights, thermostats, cameras, locks, and more
-Automation Engine : Rule-based automation system with triggers and actions
-Energy Tracking : Monitor power consumption across all devices
-Scheduling: Schedule device actions for specific times
-Interactive Console: User-friendly menu-driven interface
+</div>
 
-Exception Handling: Robust error management with custom exceptions
-
-##
- Features
-
-###
- Device Management
-
-
- ✅ Turn devices on/off
- ✅ Control device-specific settings (brightness, temperature, volume, etc.)
- ✅ Monitor device status in real-time
- ✅ Handle offline devices gracefully
- ✅ Track device energy consumption
-
- 
-###
- Room Organization
-
- ✅ Group devices by rooms
- ✅ Control all devices in a room simultaneously
- ✅ View room-specific status reports
- ✅ Add/remove devices from rooms
-###
- Automation System
-
- ✅ Create trigger-action rules
- ✅ Motion sensor triggers
- ✅ Enable/disable automation rules
- ✅ Automatic rule execution
-
- 
-###
- Energy Monitoring
-
- ✅ Real-time power consumption (Watts)
- ✅ Daily usage estimates (kWh)
- ✅ Per-device energy breakdown
- ✅ Total home consumption tracking
- 
-###
- Scheduling
- 
- ✅ Schedule device actions for specific times
- ✅ View scheduled actions
- ✅ Cancel scheduled tasks
 ---
 
-##
- Requirements
-Java Development Kit (JDK)
-Memory: 256 MB RAM minimum
-Storage: 50 MB available space
+## 🎯 Overview
 
-##
-  Quick Start
-###
- 1. Compile the Project
- 2. Run the Project
- 3. Start Controlling Your Smart Home!
+**CasaSecure** is a Java-based application that simulates a complete smart home environment. Built with object-oriented programming principles, it demonstrates inheritance, polymorphism, interfaces, and exception handling while providing a functional smart home management system.
 
-You'll see an interactive menu:
+### Key Highlights
+
+- 🏗️ **Solid Architecture**: Well-structured OOP design with clear separation of concerns
+- 🔌 **Multiple Device Types**: Support for lights, thermostats, cameras, locks, and more
+- 🤖 **Automation Engine**: Rule-based automation system with triggers and actions
+- ⚡ **Energy Tracking**: Monitor power consumption across all devices
+- 📅 **Scheduling**: Schedule device actions for specific times
+- 🎮 **Interactive Console**: User-friendly menu-driven interface
+- 🛡️ **Exception Handling**: Robust error management with custom exceptions
+
+---
+
+## ✨ Features
+
+### Device Management
+- ✅ Turn devices on/off
+- ✅ Control device-specific settings (brightness, temperature, volume, etc.)
+- ✅ Monitor device status in real-time
+- ✅ Handle offline devices gracefully
+- ✅ Track device energy consumption
+
+### Room Organization
+- ✅ Group devices by rooms
+- ✅ Control all devices in a room simultaneously
+- ✅ View room-specific status reports
+- ✅ Add/remove devices from rooms
+
+### Automation System
+- ✅ Create trigger-action rules
+- ✅ Motion sensor triggers
+- ✅ Enable/disable automation rules
+- ✅ Automatic rule execution
+
+### Energy Monitoring
+- ✅ Real-time power consumption (Watts)
+- ✅ Daily usage estimates (kWh)
+- ✅ Per-device energy breakdown
+- ✅ Total home consumption tracking
+
+### Scheduling
+- ✅ Schedule device actions for specific times
+- ✅ View scheduled actions
+- ✅ Cancel scheduled tasks
+
+---
+
+## 💻 Requirements
+
+- **Java Development Kit (JDK)**: Version 11 or higher
+- **Memory**: 256 MB RAM minimum
+- **Storage**: 50 MB available space
+
+---
+
+## 🚀 Quick Start
+
+### 1. Compile the Project
+
+```bash
+javac smarthome/*.java
 ```
 
+### 2. Run the Project
+
+```bash
+java smarthome.SmartHomeSimulator
+```
+
+### 3. Start Controlling Your Smart Home!
+
+You'll see an interactive menu:
+
+```
 ==== SMART HOME MENU ====
 1. Show home status
 2. List all devices
@@ -93,19 +99,30 @@ You'll see an interactive menu:
 7. Show automation rules
 0. Exit
 Choose option:
-
 ```
-##
- Future Enhancements
 
-###
- Planned Features
+---
 
-Web Interface: RESTful API and web dashboard
-Data Persistence: Save/load home configuration
-Notifications:: Email/SMS alerts for events
-Voice Control: Alexa/Google Home integration
-Security: Encryption and authentication
+## 🔮 Future Enhancements
+
+### Planned Features
+
+- 🌐 **Web Interface**: RESTful API and web dashboard
+- 🗄️ **Data Persistence**: Save/load home configuration
+- 🔔 **Notifications**: Email/SMS alerts for events
+- 🎤 **Voice Control**: Alexa/Google Home integration
+- 🔐 **Security**: Encryption and authentication
+
+---
 
 
 
+---
+
+<div align="center">
+
+**Made with ☕ and Java**
+
+⭐ Star this project if you find it useful!
+
+</div>
