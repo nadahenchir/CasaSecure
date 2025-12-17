@@ -73,13 +73,13 @@
 ### 1. Compile the Project
 
 ```bash
-javac smarthome/*.java
+javac *.java
 ```
 
 ### 2. Run the Project
 
 ```bash
-java smarthome.SmartHomeSimulator
+java SmartHomeSimulator
 ```
 
 ### 3. Start Controlling Your Smart Home!
@@ -121,6 +121,6 @@ Choose option:
 
 **Made with ☕ and Java**
 
-⭐ Star this project if you find it useful!
+
 
 </div>
