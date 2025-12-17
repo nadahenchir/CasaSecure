@@ -2,9 +2,7 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-11+-orange?style=for-the-badge&logo=java)
-![Console](https://img.shields.io/badge/Interface-Console-blue?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Design-Object--Oriented-red?style=for-the-badge)
+
 
 **A comprehensive object-oriented smart home automation system**
 
