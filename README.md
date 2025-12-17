@@ -1,6 +1,6 @@
 # CasaSecure
 
-#Overview
+Overview
 The Smart Home Control System is a Java-based application that simulates a complete smart home environment. Built with object-oriented programming principles, it demonstrates inheritance, polymorphism, interfaces, and exception handling while providing a functional smart home management system.
 Key Highlights
 
@@ -12,7 +12,7 @@ Scheduling: Schedule device actions for specific times
 Interactive Console: User-friendly menu-driven interface
 Exception Handling: Robust error management with custom exceptions
 
-#Features
+Features
 Device Management
 ✅ Turn devices on/off
 ✅ Control device-specific settings (brightness, temperature, volume, etc.)
@@ -43,15 +43,16 @@ Scheduling
 ✅ View scheduled actions
 ✅ Cancel scheduled tasks
 
-#Requirements
+Requirements
 Java Development Kit (JDK): Version 11 or higher
 Operating System: Windows, macOS, or Linux
 Memory: 256 MB RAM minimum
 Storage: 50 MB available space
 
-#Start
+Start
 After compiling and running the application, you can start controlling your smart home. 
 You'll see this interactive menu:
+
 ==== SMART HOME MENU ====
 1. Show home status
 2. List all devices
@@ -63,7 +64,7 @@ You'll see this interactive menu:
 0. Exit
 Choose option:
 
-#Future Enhancements
+Future Enhancements
 Planned Features
 Web Interface: RESTful API and web dashboard
 Data Persistence: Save/load home configuration
